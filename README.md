@@ -17,6 +17,7 @@ Branch Link: https://github.com/odysseus-dev/odysseus/tree/bdbe69946f66305a8b4d1
 Main Link: https://github.com/odysseus-dev/odysseus
 
 
+
 > **Branch note:** `dev` is the default branch and contains the latest development changes, but it may be unstable. For the more stable curated branch, use [`main`](https://github.com/pewdiepie-archdaemon/odysseus/tree/main).
 
 ```
