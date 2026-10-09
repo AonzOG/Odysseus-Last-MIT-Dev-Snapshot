@@ -12,13 +12,13 @@ The original MIT license, copyright notices, and acknowledgments are retained. T
 
 **Source:**
 
-Branch Link: https://github.com/odysseus-dev/odysseus/tree/bdbe69946f66305a8b4d1577eeaf1f4e398f6660
+Original MIT Source Snapshot: https://github.com/odysseus-dev/odysseus/tree/bdbe69946f66305a8b4d1577eeaf1f4e398f6660
 
 Main Link: https://github.com/odysseus-dev/odysseus
 
 
 
-> **Branch note:** `dev` is the default branch and contains the latest development changes, but it may be unstable. For the more stable curated branch, use [`main`](https://github.com/pewdiepie-archdaemon/odysseus/tree/main).
+> **Historical snapshot:** This repository's default branch is `main`. It preserves the last MIT-licensed revision of Odysseus's original upstream `dev` branch at commit `bdbe69946f66305a8b4d1577eeaf1f4e398f6660`.
 
 ```
 ───────────────────────────────────────────────

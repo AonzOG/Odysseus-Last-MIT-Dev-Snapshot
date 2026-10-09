@@ -1,7 +1,7 @@
 # Odysseus: historical MIT-licensed `dev` source provenance
 
 **Record prepared:** 9 October 2026 (Fiji time)  
-**Preservation repository:** https://github.com/AonzOG/Odysseus-MIT-License  
+**Preservation repository:** https://github.com/AonzOG/Odysseus-Last-MIT-Dev-Snapshot  
 **Original upstream repository:** https://github.com/odysseus-dev/odysseus  
 **Original upstream branch:** `dev`
 
@@ -34,9 +34,9 @@ Primary evidence:
 
 This record concerns the `dev` branch specifically. The upstream `main` branch had a separate, earlier MIT-to-AGPL change; no claim is made that the above `dev` commit was the first AGPL change anywhere in the project.
 
-## 3. Independently preserved copy in AonzOG/Odysseus-MIT-License
+## 3. Independently preserved copy in AonzOG/Odysseus-Last-MIT-Dev-Snapshot
 
-- **Preservation repository:** https://github.com/AonzOG/Odysseus-MIT-License
+- **Preservation repository:** https://github.com/AonzOG/Odysseus-Last-MIT-Dev-Snapshot
 - **Preservation commit SHA:** `be93308bce9c1c67665754b7640bb9b123dbca8e`
 - **Preservation commit Git tree SHA:** `4701eedf3af9c2a434375ad4c3e8f0c75ad7d097`
 - **Preserved MIT `LICENSE` blob SHA:** `7087e2d598700ecb40f09a0fbf3f12952fcf641e`
@@ -44,16 +44,16 @@ This record concerns the `dev` branch specifically. The upstream `main` branch h
 
 **Verification result:** The full Git tree of the preservation commit is *identical* to the full Git tree of the original MIT-licensed upstream `dev` commit. This matches every tracked file and its Git mode and content, not just the licensing file. The preserved commit does **not** reproduce the changes introduced by the later AGPL-transition commit.
 
-- Preserved GitHub commit: https://github.com/AonzOG/Odysseus-MIT-License/commit/be93308bce9c1c67665754b7640bb9b123dbca8e
-- Preserved original license: https://github.com/AonzOG/Odysseus-MIT-License/blob/be93308bce9c1c67665754b7640bb9b123dbca8e/LICENSE
+- Preserved GitHub commit: https://github.com/AonzOG/Odysseus-Last-MIT-Dev-Snapshot/commit/be93308bce9c1c67665754b7640bb9b123dbca8e
+- Preserved original license: https://github.com/AonzOG/Odysseus-Last-MIT-Dev-Snapshot/blob/be93308bce9c1c67665754b7640bb9b123dbca8e/LICENSE
 
 ## 4. Independent Git verification
 
 These commands check the fixed historical commits, rather than a `main` branch that may acquire documentation or later development changes:
 
 ```bash
-git clone https://github.com/AonzOG/Odysseus-MIT-License.git
-cd Odysseus-MIT-License
+git clone https://github.com/AonzOG/Odysseus-Last-MIT-Dev-Snapshot.git
+cd Odysseus-Last-MIT-Dev-Snapshot
 git rev-parse be93308bce9c1c67665754b7640bb9b123dbca8e^{tree}
 git show be93308bce9c1c67665754b7640bb9b123dbca8e:LICENSE
 git remote add historical https://github.com/odysseus-dev/odysseus.git
