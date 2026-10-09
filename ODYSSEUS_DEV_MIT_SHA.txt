@@ -1,0 +1,18 @@
+Odysseus historical MIT dev revision - verified Git identifiers
+Prepared: 9 October 2026, Fiji
+Original upstream: https://github.com/odysseus-dev/odysseus
+Original upstream branch: dev
+Original MIT commit: bdbe69946f66305a8b4d1577eeaf1f4e398f6660
+Original MIT Git tree: 4701eedf3af9c2a434375ad4c3e8f0c75ad7d097
+Original MIT LICENSE blob: 7087e2d598700ecb40f09a0fbf3f12952fcf641e
+Immediate child changing LICENSE to AGPL: 52ae2004220c3b67f9e98507647c0351db71f950
+Preserved repository: https://github.com/AonzOG/Odysseus-MIT-License
+Preserved commit: be93308bce9c1c67665754b7640bb9b123dbca8e
+Preserved Git tree: 4701eedf3af9c2a434375ad4c3e8f0c75ad7d097
+Preserved MIT LICENSE blob: 7087e2d598700ecb40f09a0fbf3f12952fcf641e
+Full source tree exactly matches original pinned MIT commit (1,022 tracked files).
+Upstream MIT commit: https://github.com/odysseus-dev/odysseus/commit/bdbe69946f66305a8b4d1577eeaf1f4e398f6660
+Upstream AGPL change: https://github.com/odysseus-dev/odysseus/commit/52ae2004220c3b67f9e98507647c0351db71f950
+Preserved commit: https://github.com/AonzOG/Odysseus-MIT-License/commit/be93308bce9c1c67665754b7640bb9b123dbca8e
+A later license change does not by itself establish that this earlier MIT-licensed source was AGPL.
+This is source provenance, not legal advice or an adjudication of any contributor's rights.
