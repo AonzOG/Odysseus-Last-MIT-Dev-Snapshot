@@ -4,7 +4,7 @@
 
 **Preservation Date: 9 October 2026**
 
-This repository preserves the complete Odysseus source code from the original upstream `dev` branch at commit [`bdbe69946f66305a8b4d1577eeaf1f4e398f6660`](https://github.com/odysseus-dev/odysseus/commit/bdbe69946f66305a8b4d1577eeaf1f4e398f6660), immediately preceding its transition from MIT to AGPL-3.0-or-later on 9 June 2026 (UTC).
+This repository preserves the complete Odysseus source code from the original upstream `dev` branch at commit [`bdbe69946f66305a8b4d1577eeaf1f4e398f6660`](https://github.com/odysseus-dev/odysseus/commit/bdbe69946f66305a8b4d1577eeaf1f4e398f6660), with 1085 commits immediately preceding its transition from MIT to AGPL-3.0-or-later on 9 June 2026 (UTC).
 
 The original MIT license, copyright notices, and acknowledgments are retained. This independent preservation and development repository contains the historical MIT-licensed source, not subsequent AGPL-licensed changes.
 
